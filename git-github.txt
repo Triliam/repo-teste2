@@ -1,0 +1,8 @@
+Cria repositorio no github - "repo-teste2"
+Abre gitbash dentro da pasta que vai receber o repositorio "repo-teste2"
+git clone git@github.com:Triliam/repo-teste2.git
+Abre gitbash dentro da pasta/repositorio "repo-teste2" que vai estar na maquina/pc
+git status
+git add .
+git commit -m ""
+git push
